@@ -4,7 +4,7 @@
 **ID**: Sosial media film Indonesia.
 
 ## Status
-DEVELOPING
+ABANDONED
 
 ## Requirements
 1. Android Studio
