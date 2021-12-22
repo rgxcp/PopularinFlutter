@@ -1,7 +1,5 @@
-# 🎫 Dart - Flutter - Popularin
-**EN**: Indonesian film social media.
-
-**ID**: Sosial media film Indonesia.
+# 🎫 Popularin
+Indonesian film social media.
 
 ## Status
 ABANDONED
